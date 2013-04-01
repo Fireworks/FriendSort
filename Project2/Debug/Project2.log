@@ -1,0 +1,223 @@
+﻿  value.c
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(93): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(94): error C2085: 'json_incref' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(94): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(104): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(105): error C2085: 'json_decref' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(105): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(150): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(151): error C2085: 'json_object_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(151): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(156): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(157): error C2085: 'json_object_set_nocheck' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(157): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(162): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(163): error C2085: 'json_object_iter_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(163): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(177): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(178): error C2085: 'json_array_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(178): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(183): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(184): error C2085: 'json_array_append' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(184): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(189): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(190): error C2085: 'json_array_insert' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(190): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\value.c(22): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\value.c(22): error C2085: 'isnan' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\value.c(22): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\value.c(25): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\value.c(25): error C2085: 'isinf' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\value.c(25): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\value.c(28): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\value.c(29): error C2085: 'json_init' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\value.c(29): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\value.c(42): warning C4013: 'json_init' undefined; assuming extern returning int
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\value.c(93): warning C4013: 'json_decref' undefined; assuming extern returning int
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\value.c(153): warning C4013: 'json_object_set_nocheck' undefined; assuming extern returning int
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\value.c(548): warning C4013: 'json_incref' undefined; assuming extern returning int
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\value.c(588): warning C4013: 'json_array_append' undefined; assuming extern returning int
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\value.c(744): warning C4013: 'isnan' undefined; assuming extern returning int
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\value.c(744): warning C4013: 'isinf' undefined; assuming extern returning int
+  strconv.c
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(93): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(94): error C2085: 'json_incref' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(94): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(104): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(105): error C2085: 'json_decref' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(105): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(150): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(151): error C2085: 'json_object_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(151): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(156): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(157): error C2085: 'json_object_set_nocheck' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(157): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(162): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(163): error C2085: 'json_object_iter_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(163): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(177): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(178): error C2085: 'json_array_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(178): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(183): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(184): error C2085: 'json_array_append' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(184): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(189): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(190): error C2085: 'json_array_insert' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(190): error C2143: syntax error : missing ';' before '{'
+  strbuffer.c
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(93): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(94): error C2085: 'json_incref' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(94): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(104): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(105): error C2085: 'json_decref' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(105): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(150): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(151): error C2085: 'json_object_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(151): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(156): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(157): error C2085: 'json_object_set_nocheck' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(157): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(162): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(163): error C2085: 'json_object_iter_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(163): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(177): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(178): error C2085: 'json_array_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(178): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(183): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(184): error C2085: 'json_array_append' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(184): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(189): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(190): error C2085: 'json_array_insert' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(190): error C2143: syntax error : missing ';' before '{'
+  pack_unpack.c
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(93): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(94): error C2085: 'json_incref' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(94): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(104): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(105): error C2085: 'json_decref' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(105): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(150): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(151): error C2085: 'json_object_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(151): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(156): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(157): error C2085: 'json_object_set_nocheck' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(157): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(162): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(163): error C2085: 'json_object_iter_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(163): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(177): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(178): error C2085: 'json_array_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(178): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(183): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(184): error C2085: 'json_array_append' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(184): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(189): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(190): error C2085: 'json_array_insert' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(190): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\pack_unpack.c(136): warning C4013: 'json_decref' undefined; assuming extern returning int
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\pack_unpack.c(210): warning C4013: 'json_incref' undefined; assuming extern returning int
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\pack_unpack.c(210): warning C4047: 'return' : 'json_t *' differs in levels of indirection from 'int'
+  memory.c
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(93): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(94): error C2085: 'json_incref' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(94): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(104): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(105): error C2085: 'json_decref' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(105): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(150): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(151): error C2085: 'json_object_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(151): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(156): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(157): error C2085: 'json_object_set_nocheck' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(157): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(162): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(163): error C2085: 'json_object_iter_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(163): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(177): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(178): error C2085: 'json_array_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(178): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(183): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(184): error C2085: 'json_array_append' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(184): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(189): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(190): error C2085: 'json_array_insert' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(190): error C2143: syntax error : missing ';' before '{'
+  load.c
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(93): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(94): error C2085: 'json_incref' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(94): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(104): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(105): error C2085: 'json_decref' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(105): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(150): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(151): error C2085: 'json_object_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(151): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(156): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(157): error C2085: 'json_object_set_nocheck' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(157): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(162): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(163): error C2085: 'json_object_iter_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(163): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(177): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(178): error C2085: 'json_array_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(178): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(183): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(184): error C2085: 'json_array_append' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(184): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(189): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(190): error C2085: 'json_array_insert' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(190): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\load.c(702): warning C4013: 'json_object_set_nocheck' undefined; assuming extern returning int
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\load.c(704): warning C4013: 'json_decref' undefined; assuming extern returning int
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\load.c(745): warning C4013: 'json_array_append' undefined; assuming extern returning int
+  error.c
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(93): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(94): error C2085: 'json_incref' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(94): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(104): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(105): error C2085: 'json_decref' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(105): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(150): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(151): error C2085: 'json_object_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(151): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(156): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(157): error C2085: 'json_object_set_nocheck' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(157): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(162): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(163): error C2085: 'json_object_iter_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(163): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(177): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(178): error C2085: 'json_array_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(178): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(183): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(184): error C2085: 'json_array_append' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(184): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(189): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(190): error C2085: 'json_array_insert' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(190): error C2143: syntax error : missing ';' before '{'
+  dump.c
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(93): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(94): error C2085: 'json_incref' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(94): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(104): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(105): error C2085: 'json_decref' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(105): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(150): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(151): error C2085: 'json_object_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(151): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(156): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(157): error C2085: 'json_object_set_nocheck' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(157): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(162): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(163): error C2085: 'json_object_iter_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(163): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(177): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(178): error C2085: 'json_array_set' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(178): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(183): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(184): error C2085: 'json_array_append' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(184): error C2143: syntax error : missing ';' before '{'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(189): error C2054: expected '(' to follow 'inline'
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(190): error C2085: 'json_array_insert' : not in formal parameter list
+c:\users\justin\documents\visual studio 2012\projects\project2\project2\jansson.h(190): error C2143: syntax error : missing ';' before '{'
+  Generating Code...
